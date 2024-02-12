@@ -98,6 +98,10 @@ a {
   color: #434455;
 }
 
+.team {
+    background-color: #f4f4fd;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -156,6 +160,7 @@ color: #434455;
 
 .logo-footer {
     color: #f4f4fd;
+    font-family: 'Raleway', sans-serif;
 }
 
 .footer-description {
