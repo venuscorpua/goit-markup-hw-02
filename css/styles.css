@@ -43,12 +43,15 @@ a {
   color: #404bbf;
 }
 
+.page-adderss {
+    font-style: normal;
+}
+
 .address-link {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 
 .address-link:hover,
@@ -80,7 +83,7 @@ a {
 }
 
 .order-button:hover,
-.address-link:focus {
+.order-button:focus {
   color: #fff;
   background-color: #404bbf;
 }
